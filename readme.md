@@ -7,7 +7,7 @@ La prueba tiene 4 preguntas
 2. Escribir un query para obtener promedio, desviacion estandar, rango, etc... de un curso.
 3. Definir la exclusión mutua y sockets.
 
-Las preguntas completas están 
+Las preguntas completas están en el pdf "pruebadiag.pdf"
 
 #### Autor:
 - Nicolás Andrews S.
