@@ -14,6 +14,7 @@ Las preguntas completas están
 
 ### Compilación:
 El programa necesita al menos C++11 (GNU)
+
 Debug:
 ```
 g++ -g -std=gnu++11 -Wall  main.cpp -o character_count.exe
