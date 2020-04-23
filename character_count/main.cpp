@@ -5,6 +5,7 @@
 
 int main(int argc, char** argv) {
     if(argv[1] == NULL) { //Error
+        std::cerr << "ERROR: No input" << std::endl;
         return EXIT_FAILURE;
     }
 

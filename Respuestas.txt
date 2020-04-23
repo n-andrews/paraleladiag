@@ -1,0 +1,13 @@
+(Sistemas operativos)
+1. Que es la exclusión mutua?
+
+R: La exclusión mutua consiste en cuando un hilo toma los recursos necesarios para realizar el proceso y no los suelta hasta terminar el
+proceso o instrucciones, esto hace que los otros hilos no puedan tomar el mismo recurso para realizar diferentes procesos, esencialmente
+estableciendo un comportamiento en el que el hilo debe terminar su tarea antes de que los demás hilos puedan empezar la suya.
+
+(Datos y Redes)
+2. Que son los socket?
+
+R: Es un metodo de comunicación entre 2 programas que permite el uso de "protocolos" (TCP/UDP) para la transferencia de información, estos
+protocolos lideran el comportamiento de estos socket y como llevan la información de un lado a otro.
+
